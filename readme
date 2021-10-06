@@ -1,0 +1,29 @@
+Name : Allen Bronshtein
+ID : 206228751
+
+================IMPORTANT=================
+1.When running different domains or problems
+on the executive , PLEASE make sure that the
+file names are different, or it might crash
+the executive.
+
+2. If you want to clear all files created
+by program , please run Clear.py
+Please be aware that when running clear.py
+the program will return to its initial state
+as if it was never run before.
+==========================================
+
+
+Total number of packages : 5
+
+Package (1) - Components : Contains 4 files (Executer.py , FileManager.py , Learner.py, __init__.py)
+Package (2) - Executers : Contains 7 files (BestPlanExe.py , DummyExe.py , PLanKExe.py, PolicyExe.py, RandomExe.py, RandomExeExtended.py, __init__.py)
+Package (3) - Files : Contains 3 files (ExploreCOnst, PLANS, __init__.py)
+Package (4) - Qtables : Contains 1 file (__init__.py) **(inflates during runtime)**
+Package (5) - Utilities : Contains 5 files (Actions.py, ErrorHandler.py, __init__.py, valid_actions.py, Vocabulary.py)
+
+Project directory - contains 4 files (Clear.py, Data.py, my_executive.py, readme)
+
+Total number of files - 24
+
